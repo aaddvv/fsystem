@@ -20,4 +20,11 @@
 Чтобы скомпилировать этот код вводим 
 
     as load.S -o load.o
+    ld -o load load.o
+    
+
+    
+# отсылка
+
+1 часть урока - https://github.com/aaddvv/gid
     
