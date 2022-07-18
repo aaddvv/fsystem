@@ -60,4 +60,6 @@
 # отсылка
 
 1 часть урока - https://github.com/aaddvv/gid
+
+https://www.farpost.ru/volzhskii/service/internet/prodaju-kurs-po-razrabotke-prilozhenij-v-android-studio-103127279.html
     
